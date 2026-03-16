@@ -1,0 +1,1 @@
+# my attempt at making a simple LLM with a CLI
