@@ -1,1 +1,1 @@
-# my attempt at making a simple LLM with a CLI
+# my attempt at making a CLI for LLMs using typescript
