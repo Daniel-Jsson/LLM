@@ -1,8 +1,6 @@
 import "dotenv/config";
 import * as readline from "node:readline/promises";
 import { stdin as input, stdout as output } from "node:process";
-import { error } from "node:console";
-import Stream from "node:stream";
 
 const rl = readline.createInterface({ input, output });
 
